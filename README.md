@@ -21,3 +21,8 @@ This is a Python implementation of the classic 2048 puzzle game. The game utiliz
 - `constants.py`: Defines constants and color dictionaries used in the game.
 
 ## Requirements
+- Python 3
+- Tkinter library (usually included with Python)
+
+
+Enjoy playing 2048!
